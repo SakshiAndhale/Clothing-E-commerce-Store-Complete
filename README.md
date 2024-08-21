@@ -27,13 +27,13 @@ Key Questions Answered 🧐
 # Visualizations 📈
 Here’s a quick rundown of the visualizations included in the dashboard and the business decisions drawn from each:
 
-**Order vs. Sales:** Focus marketing efforts and promotions in the latter half of the year to boost sales and order counts.
-**Gender Distribution:** Tailor marketing strategies and product offerings to appeal more to female customers while exploring opportunities to attract more male customers.
-**Order Status:** Improve the return and refund processes to enhance customer satisfaction and reduce cancellations.
-**Regional Sales:** Strengthen marketing and distribution channels in top-performing states (Maharashtra and Karnataka) and investigate potential growth opportunities in lower-performing regions.
-**Sales by Gender and Age Group:** Develop targeted marketing campaigns for adult women while creating strategies to increase engagement among teenagers and seniors.
-**B2B vs. B2C Sales:** Consider expanding B2B sales opportunities to diversify revenue streams.
-**Orders and Sales through Channels:** Continue to strengthen partnerships with top-performing channels (Amazon, Myntra, and Flipkart) while exploring ways to boost sales through other channels.
+1. **Order vs. Sales:** Focus marketing efforts and promotions in the latter half of the year to boost sales and order counts.
+2. **Gender Distribution:** Tailor marketing strategies and product offerings to appeal more to female customers while exploring opportunities to attract more male customers.
+3. **Order Status:** Improve the return and refund processes to enhance customer satisfaction and reduce cancellations.
+4. **Regional Sales:** Strengthen marketing and distribution channels in top-performing states (Maharashtra and Karnataka) and investigate potential growth opportunities in lower-performing regions.
+5. **Sales by Gender and Age Group:** Develop targeted marketing campaigns for adult women while creating strategies to increase engagement among teenagers and seniors.
+6. **B2B vs. B2C Sales:** Consider expanding B2B sales opportunities to diversify revenue streams.
+7. **Orders and Sales through Channels:** Continue to strengthen partnerships with top-performing channels (Amazon, Myntra, and Flipkart) while exploring ways to boost sales through other channels.
 
 # Technologies Used 💻
 **Excel:** Used for data cleaning, organizing, and preliminary analysis.
